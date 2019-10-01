@@ -33,4 +33,4 @@ dev_gem 'poise-boiler'
 dev_gem 'poise-profiler'
 
 # To make life easier for unit testing.
-gem 'rubyzip'
+gem 'rubyzip', '~> 1.0'
